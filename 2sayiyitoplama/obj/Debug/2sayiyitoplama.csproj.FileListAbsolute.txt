@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\obj\Debug\2sayiyitoplama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\obj\Debug\_2sayiyitoplama.FORM1.resources
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\obj\Debug\2sayiyitoplama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\obj\Debug\2sayiyitoplama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\bin\Debug\2sayiyitoplama.dll
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\bin\Debug\2sayiyitoplama.pdb
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\obj\Debug\2sayiyitoplama.dll
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\obj\Debug\2sayiyitoplama.pdb
